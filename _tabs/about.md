@@ -36,6 +36,24 @@ order: 4
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-5d34a5.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=black)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-5d34a5.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-5d34a5?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-JavaScript-5d34a5?style=for-the-badge&logo=javascript" />&nbsp;
+  <img src="https://img.shields.io/badge/-Java-5d34a5?style=for-the-badge&logo=Java&logoColor=FFA518" />
+  <img src="https://img.shields.io/badge/-C-5d34a5?style=for-the-badge&logo=C&logoColor=A8B9CC" />&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-5d34a5?style=for-the-badge&logo=HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-5d34a5?style=for-the-badge&logo=CSS3&logoColor=1572B6" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-5d34a5?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-5d34a5?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PowerShell-5d34a5.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Markdown-5d34a5?style=for-the-badge&logo=markdown" />&nbsp;
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-5d34a5?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Illustrator-5d34a5?style=for-the-badge&logo=adobe-illustrator" />
+  <img src="https://img.shields.io/badge/-Photoshop-5d34a5?style=for-the-badge&logo=adobe-photoshop" />
+  <img src="https://img.shields.io/badge/After%20Effects-5d34a5.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5d34a5.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black" />
+</p>
+
 
 
 
