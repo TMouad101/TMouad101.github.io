@@ -30,6 +30,13 @@ order: 4
 - ![HTML](https://img.shields.io/badge/-HTML-5d34a5?style=for-the-badge&logo=HTML5)
 - ![CSS](https://img.shields.io/badge/-CSS-5d34a5?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
+### Network Protocols
+- ![OSPF](https://img.shields.io/badge/-OSPF-5d34a5?style=for-the-badge)
+- ![RIP](https://img.shields.io/badge/-RIP-5d34a5?style=for-the-badge)
+- ![ISIS](https://img.shields.io/badge/-ISIS-5d34a5?style=for-the-badge)
+- ![BGP](https://img.shields.io/badge/-BGP-5d34a5?style=for-the-badge)
+
+
 ### Version Control
 - ![Git](https://img.shields.io/badge/-Git-5d34a5?style=for-the-badge&logo=git)
 - ![GitHub](https://img.shields.io/badge/-GitHub-5d34a5?style=for-the-badge&logo=github)
