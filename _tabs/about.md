@@ -16,7 +16,7 @@ order: 4
 
 🚩 As a passionate CTF player, I thoroughly enjoy solving problems and exploring new challenges.
 
-🖌️ I'm also a graohic design entousiat pationate about graphic design world and video editing 
+🖌️ I'm also a graphic design entousiat pationate about graphic design world and video editing.
 
 ### 🛠 Tech Skills
 
