@@ -19,8 +19,8 @@ title: TMouad101 # the main title
 tagline: Cybersecurity student # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-A portfolio that gathers a variety of cool tips, tricks, and projects I have worked on, along with knowledge I have gained throughout my studies and research in the fields of cybersecurity and IT.
-Have Fun :)
+  A portfolio that gathers a variety of cool tips, tricks, and projects I have worked on, along with knowledge I have gained throughout my studies and research in the fields of cybersecurity and IT. Have Fun :).
+
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://tmouad101.com"
