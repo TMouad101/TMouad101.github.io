@@ -1,6 +1,6 @@
 ---
 title: "Inclusiveness Writeup"
-date: 2024-12-27 12:00:00 -500
+date: 2025-01-16 12:00:00 -500
 categories: [Writeups]
 tags: [Proving Grounds]
 image: "/media/Inclusiveness/offsec.jpg"
