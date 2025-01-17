@@ -118,6 +118,7 @@ And here’s the result!
 ![revshell](/media/Inclusiveness/revshell.png)
 
 Our reverse shell is working, Awesome
+
 ---
 
 ## Privilege Escalation
