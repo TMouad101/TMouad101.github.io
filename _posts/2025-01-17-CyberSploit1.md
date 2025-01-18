@@ -1,6 +1,6 @@
 ---
 title: "CyberSploit1 Writeup"
-date: 2025-01-17 10:00:00 -500
+date: 2025-01-17 12:00:00 -500
 categories: [Writeups]
 tags: [Proving Grounds]
 image: "/media/CyberSploit1/offsec.jpg"
